@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\ListsListsLists_JayStiles\ListsListsLists_JayStiles\bin\Debug\ListsListsLists_JayStiles.exe.config
+C:\Users\jstiles\source\repos\ListsListsLists_JayStiles\ListsListsLists_JayStiles\bin\Debug\ListsListsLists_JayStiles.exe
+C:\Users\jstiles\source\repos\ListsListsLists_JayStiles\ListsListsLists_JayStiles\bin\Debug\ListsListsLists_JayStiles.pdb
+C:\Users\jstiles\source\repos\ListsListsLists_JayStiles\ListsListsLists_JayStiles\obj\Debug\ListsListsLists_JayStiles.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\ListsListsLists_JayStiles\ListsListsLists_JayStiles\obj\Debug\ListsListsLists_JayStiles.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\ListsListsLists_JayStiles\ListsListsLists_JayStiles\obj\Debug\ListsListsLists_JayStiles.exe
+C:\Users\jstiles\source\repos\ListsListsLists_JayStiles\ListsListsLists_JayStiles\obj\Debug\ListsListsLists_JayStiles.pdb
